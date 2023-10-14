@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zancaani&label=Profile%20views&color=0e75b6&style=flat" alt="zancaani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zancaanidev" target="blank"><img src="https://img.shields.io/twitter/follow/zancaanidev?logo=twitter&style=for-the-badge" alt="zancaanidev" /></a> </p>
+<p align="left"> <a href="linkedin.com/in/hamze-zancaani-2ab776172" target="blank"><img src="linkedin.com/in/hamze-zancaani-2ab776172" alt="hamze-zancaani" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs and TypeScript**
 
